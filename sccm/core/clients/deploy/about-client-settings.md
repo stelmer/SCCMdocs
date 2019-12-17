@@ -67,7 +67,7 @@ The Configuration Manager client cache on Windows computers stores temporary fil
 
 If you choose **Yes**, then specify:
 
-- **Maximum cache size (MB)**
+- **Maximum cache size (MB)**: The client cache size has a maximum limit of 99999 MB, or approximately 97 GB.
 - **Maximum cache size (percentage of disk)**: The client cache size expands to the maximum size in megabytes (MB), or the percentage of the disk, whichever is less.
 
 ### Enable as peer cache source
